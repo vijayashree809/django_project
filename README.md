@@ -18,7 +18,7 @@ A fully functional **Blog Web Application** built with **Django** and **MySQL**,
 - **Backend:** Django, Python
 - **Frontend:** HTML, CSS, Bootstrap
 - **Database:** MySQL (via MySQL Workbench)
-- **Version Control:** Git & GitHub
+
 
 ---
 
