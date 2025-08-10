@@ -1,0 +1,7 @@
+asgiref==3.9.1
+Django==5.2.4
+django-pagination==1.0.7
+Faker==37.4.2
+mysqlclient==2.2.7
+sqlparse==0.5.3
+tzdata==2025.2
